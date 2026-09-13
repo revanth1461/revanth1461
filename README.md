@@ -1,381 +1,320 @@
+Absolutely 😎 **Copy everything inside this single code block** and paste it directly into your `README.md`.
+
 ````markdown
-<div align="center">
+<h1 align="center">👋 Hey, I'm Revanth Nath Reddy</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050014,50:301B69,100:00E5FF&height=240&section=header&text=ELLURU%20REVANTH%20NATH%20REDDY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2563EB,100:06B6D4&height=240&section=header&text=ELLURU%20REVANTH%20NATH%20REDDY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%">
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=200&section=header&text=Revanth%20Nath%20Reddy&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Data+Science+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;DSA+Enthusiast+%F0%9F%8E%AF;Learning+AI+%26+Machine+Learning+%F0%9F%9A%80;Building+StudentAI+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI%2FML+ENGINEERING+IN+PROGRESS+%F0%9F%A4%96;CSE+%7C+DATA+SCIENCE+%F0%9F%8E%93;PYTHON+%7C+DSA+%F0%9F%90%8D;LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+REPEAT+%F0%9F%9A%80;ONE+COMMIT+AT+A+TIME+%F0%9F%9F%A9">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=revanth1461&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge">
-
-<a href="https://github.com/revanth1461">
-<img src="https://img.shields.io/github/followers/revanth1461?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=09001A">
-</a>
-
-<a href="https://github.com/revanth1461?tab=repositories">
-<img src="https://img.shields.io/github/stars/revanth1461?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=09001A">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FOCUS-AI%2FML%20ENGINEERING-00E5FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-8B5CF6?style=for-the-badge">
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/elluru-revanth-nath-reddy-4a43b6326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Revanth%20Nath%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:revanthnathreddyilluru@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/revanth1461">
+    <img src="https://img.shields.io/badge/GitHub-revanth1461-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-# 👨‍💻 ABOUT ME
+```python
+class Revanth:
 
-</div>
+    name = "Elluru Revanth Nath Reddy"
+    nickname = "Bablu"
+    location = "India"
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   👋  ELLURU REVANTH NATH REDDY                            │
-│                                                            │
-│   🎓  CSE — DATA SCIENCE STUDENT                          │
-│   🐍  PYTHON                                               │
-│   🧠  DSA & PROBLEM SOLVING                               │
-│   📊  DATA SCIENCE                                        │
-│   🤖  AI / ML                                             │
-│   🚀  BUILDING PROJECTS                                   │
-│                                                            │
-│   🎯  GOAL: AI/ML ENGINEERING                             │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+    education = "CSE - Data Science"
+    college = "Rajeev Gandhi Memorial College of Engineering & Technology"
+    year = "3rd Year"
+    graduation = 2028
+
+    current_focus = [
+        "Python",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+    ]
+
+    skills = [
+        "Python",
+        "DSA",
+        "C",
+        "Java"
+    ]
+
+    currently_learning = [
+        "Advanced DSA",
+        "AI",
+        "Machine Learning",
+        "Data Science"
+    ]
+
+    current_project = "StudentAI"
+
+    career_goal = "AI/ML Engineer"
+
+    life_loop = [
+        "Learn",
+        "Build",
+        "Break",
+        "Debug",
+        "Improve",
+        "Repeat"
+    ]
 ````
 
-I'm a **3rd-year CSE – Data Science student** at **Rajeev Gandhi Memorial College of Engineering & Technology (RGMCET)**.
+---
 
-Currently, I'm focused on strengthening my **Python and DSA skills**, exploring **Data Science and AI/ML**, and building projects that turn ideas into practical applications.
+## ⚡ My Tech Journey
 
-> 💡 **I don't want to just learn code. I want to build with it.**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Practicing-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Learning-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-Learning-20BEFF?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</p>
 
 ---
 
-<div align="center">
-
-# 🟩 DAILY CODING ACTIVITY
-
-### Every green square represents a day I showed up.
-
-### More commits → More green → More food for the snake. 🐍
-
-<br>
-
-<img src="https://ghchart.rshah.org/00E5FF/revanth1461" width="95%" alt="GitHub contribution graph">
-
-<br><br>
+## 🎯 What I'm Currently Working On
 
 ```text
-        💻 CODE
-           ↓
-        COMMIT
-           ↓
-      🟩 GREEN DOT
-           ↓
-        🐍 SNAKE
-           ↓
-      KEEP MOVING
-           ↓
-         REPEAT
+🐍 Python
+   └── Strengthening programming fundamentals
+
+🧠 DSA
+   └── Arrays → Two Pointers → Sliding Window → Binary Search → More Patterns
+
+🤖 AI / ML
+   └── Building strong foundations and learning continuously
+
+📊 Data Science
+   └── Developing practical understanding through projects
+
+🚀 Projects
+   └── Turning ideas into real applications
 ```
 
-### 🔥 CONSISTENCY > MOTIVATION
+---
 
-</div>
+## ⚡ Featured Project — StudentAI
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=STUDENTAI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+### 🤖 AI-Powered Student Assistant
+
+**StudentAI** is a personal AI assistant designed to help students manage learning, goals, planning and everyday tasks.
+
+### ✨ Vision
+
+> Build a smart student companion that understands what a student needs and helps them learn, plan and grow.
+
+### 🚀 Planned / Current Ideas
+
+* 💬 AI Conversations
+* 📚 Study Assistance
+* 🎯 Goal Tracking
+* 📝 Planning
+* 📄 PDF-based Learning
+* 🧠 Personalized Assistance
+* ⚡ Student-focused AI experience
 
 ---
 
-<div align="center">
+## 🧩 My DSA Journey
 
-# 🐍 CONTRIBUTION SNAKE
+<p align="center">
 
-### 🟩 Your contributions are the path.
+```text
+Python Fundamentals
+        ↓
+      Arrays
+        ↓
+   Two Pointers
+        ↓
+  Sliding Window
+        ↓
+  Binary Search
+        ↓
+ More DSA Patterns
+        ↓
+ Problem Solving
+        ↓
+   🚀 AI/ML Career
+```
 
-### 🐍 The snake follows the path.
+</p>
 
-<br>
+### 📈 Learning Philosophy
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
-</picture>
-
-<br><br>
-
-### 🐍 `EAT • CODE • REPEAT`
-
-</div>
+```text
+Understand the Pattern
+        ↓
+Understand the Logic
+        ↓
+Try the Problem
+        ↓
+Make Mistakes
+        ↓
+Debug
+        ↓
+Optimize
+        ↓
+Repeat 🔥
+```
 
 ---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-# 📊 GITHUB STATISTICS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
-<a href="https://github.com/revanth1461">
-<img src="https://github-readme-stats.vercel.app/api?username=revanth1461&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=8B5CF6&text_color=808080&rank_icon=github&include_all_commits=true" height="180">
+<p align="center">
+  <i>Every green square represents another step forward. 🟩</i>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanth1461&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=revanth1461&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth1461&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth1461&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 My Goals
+
+```text
+🎯 Master DSA
+        ↓
+🐍 Become stronger in Python
+        ↓
+🧠 Learn AI & Machine Learning
+        ↓
+📊 Build Data Science Projects
+        ↓
+🚀 Build Real-World AI Projects
+        ↓
+💼 Become an AI/ML Engineer
+```
+
+---
+
+## 🔥 Current Mindset
+
+<p align="center">
+
+### "Don't just learn technology. Build with it."
+
+```text
+          LEARN 🧠
+             ↓
+          PRACTICE 💻
+             ↓
+          BUILD 🚀
+             ↓
+          FAIL 💥
+             ↓
+          DEBUG 🔧
+             ↓
+          IMPROVE 📈
+             ↓
+          REPEAT 🔥
+```
+
+</p>
+
+---
+
+## 🌱 My GitHub Philosophy
+
+<p align="center">
+
+🟩 One commit at a time
+🟩 One problem at a time
+🟩 One project at a time
+🟩 One step closer to the goal
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/elluru-revanth-nath-reddy-4a43b6326/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:revanthnathreddyilluru@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/revanth1461">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth1461&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=808080&langs_count=6" height="180">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=revanth1461&theme=dark&hide_border=true&background=00000000&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=8B5CF6&sideNums=00E5FF&dates=808080" width="75%">
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-# 📈 CONTRIBUTION ACTIVITY
+<img src="https://komarev.com/ghpvc/?username=revanth1461&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth1461&bg_color=00000000&color=00E5FF&line=8B5CF6&point=00E5FF&area=true&hide_border=true&custom_title=REVANTH'S%20CODING%20ACTIVITY" width="100%">
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer"/>
 
-<div align="center">
+</p>
 
-# 🧠 DSA JOURNEY
+<h3 align="center">
+  🚀 Learning Today • Building Tomorrow • Becoming an AI/ML Engineer
+</h3>
 
-```text
-                    🧠 DSA
-                      │
-        ┌─────────────┼─────────────┐
-        ▼             ▼             ▼
-      ARRAYS      BINARY SEARCH   SORTING
-        │             │             │
-        └─────────────┼─────────────┘
-                      ▼
-                TWO POINTERS
-                      │
-                      ▼
-               SLIDING WINDOW
-                      │
-                      ▼
-              MORE PATTERNS...
-                      │
-                      ▼
-                 🚀 MASTER DSA
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
 ```
-
-### Current Focus
-
-`Arrays` → `Two Pointers` → `Binary Search` → `Sliding Window` → `More Patterns`
-
-### Practice
-
-🐍 **Python** • 🟢 **LeetCode** • 🟢 **GeeksforGeeks**
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠️ TECH STACK
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,java">
-
-<br><br>
-
-### Core Skills
-
-<img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/C-8B5CF6?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-00E5FF?style=for-the-badge&logo=openjdk&logoColor=black">
-
-<br>
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Science-Learning-00E5FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%2FML-Learning-8B5CF6?style=for-the-badge">
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 PROJECTS
-
-## 🎵 MoodMate
-
-### Your mood. Your music. 🎧
-
-</div>
-
-A beginner-friendly Python CLI application that recommends music albums based on your current mood.
-
-```text
-😊 HAPPY
-     ↓
-🎵 Feel-good albums
-
-😢 SAD
-     ↓
-🎧 Comfort music
-
-😰 STRESSED
-     ↓
-🌿 Relaxing music
-
-🤩 EXCITED
-     ↓
-🔥 Energetic music
-
-🎲 RANDOM
-     ↓
-🎵 3 Random Albums
-
-🔗 SPOTIFY
-     ↓
-Search Links
-```
-
-### 🧰 Built With
-
-`Python` `CLI` `Lists` `Dictionaries` `Randomization`
-
-### 💡 What I Practiced
-
-* User input
-* Conditional logic
-* Functions
-* Lists & dictionaries
-* Random selection
-* Error handling
-* Building a complete Python application
-
-🔗 **Repository:**
-[https://github.com/revanth1461/Python-Projects](https://github.com/revanth1461/Python-Projects)
-
----
-
-<div align="center">
-
-# 🔮 WHAT'S NEXT?
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│  🐍 MORE PYTHON PROJECTS                   │
-│                                            │
-│  🧠 MORE DSA PROBLEMS                      │
-│                                            │
-│  📊 DATA SCIENCE PROJECTS                  │
-│                                            │
-│  🤖 AI / ML PROJECTS                       │
-│                                            │
-│  🚀 REAL-WORLD APPLICATIONS                │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 2026 GOALS
-
-| Goal                               | Status |
-| :--------------------------------- | :----: |
-| 🐍 Strengthen Python               |   🔄   |
-| 🧠 Master DSA                      |   🔄   |
-| 🟢 Solve LeetCode Problems         |   🔄   |
-| 🟢 Practice GFG Problems           |   🔄   |
-| 📊 Strengthen Data Science         |   🔄   |
-| 🤖 Learn Machine Learning          |   🔄   |
-| 🚀 Build AI/ML Projects            |   🔄   |
-| 💼 Prepare for AI/ML Internships   |   🔄   |
-| 🌟 Build Open Source Contributions |   🔄   |
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 MY RULE
-
-```text
-        ┌──────────────────────────────┐
-        │                              │
-        │       DON'T BREAK THE        │
-        │           CHAIN 🔥           │
-        │                              │
-        │      🟩 → 🟩 → 🟩 → 🐍      │
-        │                              │
-        │       ONE DAY AT A TIME      │
-        │                              │
-        └──────────────────────────────┘
-```
-
-### **One problem. One commit. One step forward.**
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 CONNECT WITH ME
-
-<a href="https://github.com/revanth1461">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 LEARN
-
-### 🛠️ BUILD
-
-### 🐛 DEBUG
-
-### 🚀 IMPROVE
-
-### 🐍 REPEAT
-
-<br>
-
-**Thanks for visiting my profile! ⭐**
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:301B69,100:09001A&height=150&section=footer&text=KEEP%20BUILDING%20%E2%9A%A1&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:5B21B6&height=150&section=footer&text=KEEP%20BUILDING%20%E2%9A%A1&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%">
-</picture>
-
-</div>
-```
-
