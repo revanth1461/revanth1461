@@ -1,184 +1,130 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Elluru%20Revanth%20Nath%20Reddy&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Elluru Revanth Nath Reddy" />
-
-<hr>
-
-![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-**3rd-year CSE – Data Science student at Rajeev Gandhi Memorial College of Engineering & Technology (RGMCET), passionate about Artificial Intelligence, Machine Learning, Data Science, Python, and problem solving. Currently strengthening my DSA skills and building practical projects while working towards becoming an AI/ML Engineer.**
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=revanth1461&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
-<img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
-
-- 👨‍💻 I am a **3rd-year CSE - Data Science student**
-- 🎓 Studying at **Rajeev Gandhi Memorial College of Engineering & Technology (RGMCET)**
-- 🤖 Currently focused on **AI/ML Engineering**
-- 🧠 Practicing **DSA, LeetCode & problem solving**
-- 🐍 Learning and building with **Python**
-- 📊 Exploring **Data Science**
-- 🚀 Currently working on **StudentAI**
-- 🌱 I believe **every day is an opportunity to learn something new**
-- 🎯 My goal is to become an **AI/ML Engineer**
-- ⚡ Fun fact: **I debug my code more than I write it 😅**
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:**
-
-<p align="left">
-
-<a href="https://github.com/revanth1461" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
-</a>
-
-<a href="https://linkedin.com/in/elluru-revanth-nath-reddy-4a43b6326" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-
-<a href="mailto:revanthnathreddyilluru@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40"/>
-</a>
-
-</p>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-</a>
-
-</p>
-
-## 🧠 **DSA Journey**
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arrays-Completed-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Two%20Pointers-Practicing-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Binary%20Search-Practicing-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sliding%20Window-Learning-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/GFG-Solving-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<!-- ⚡ ANIMATED CYBERPUNK HEADER ⚡ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=ELLURU%20REVANTH%20NATH%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-</div>
+<!-- 🤖 TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=AI%2FML+Engineering+Enthusiast+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;DSA+%7C+Python+%7C+AI%2FML+%F0%9F%90%8D;Building+StudentAI+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9A%A1;Future+AI%2FML+Engineer+%F0%9F%94%A5" alt="Typing SVG"/>
 
-## 🤖 **Current Project**
+<br>
 
-<div align="center">
-
-### ⚡ StudentAI
-
-**An AI-powered student companion**
-
-<img src="https://img.shields.io/badge/AI%20Assistant-7928CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black"/>
-
-</div>
-
-> Building an AI student assistant focused on studies, goals, planning and productivity.
-
-## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats:**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=revanth1461&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth1461&theme=github_dark&show_icons=true&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="100%"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=revanth1461&theme=github-dark&hide_border=true" alt="GitHub streak" width="100%"/>
-
-</div>
-
-## ✍️ **Random Dev Quote**
-
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<h2>🐍 Contribution Snake</h2>
-
+<!-- 🌐 SOCIAL LINKS -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+<a href="https://github.com/revanth1461">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7F7"/>
+</a>
+
+<a href="https://linkedin.com/in/elluru-revanth-nath-reddy-4a43b6326">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7F7"/>
+</a>
+
+<a href="mailto:revanthnathreddyilluru@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B91"/>
+</a>
+
 </p>
 
-## 🔥 **My Coding Philosophy**
+<!-- 👁️ PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=revanth1461&label=PROFILE+VIEWS&color=00F7F7&style=for-the-badge"/>
 
-<div align="center">
+<br><br>
 
-```text
-LEARN 📚
-   ↓
-PRACTICE 🧠
-   ↓
-CODE 💻
-   ↓
-DEBUG 🐛
-   ↓
-SOLVE ⚡
-   ↓
-BUILD 🚀
-   ↓
-IMPROVE 📈
-   ↺
-````
+<!-- ⚡ ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-<div align="center">
 
-### 🚀 Learning Today • Building Tomorrow • Becoming an AI/ML Engineer 🤖
+<!-- 👨‍💻 ABOUT ME -->
 
-</div>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
-```
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
+class Revanth:
+
+    name = "Elluru Revanth Nath Reddy"
+    nickname = "Bablu"
+    location = "India 🇮🇳"
+
+    college = "Rajeev Gandhi Memorial College of Engineering & Technology"
+    branch = "CSE - Data Science"
+    year = "3rd Year"
+    graduation = 2028
+
+    current_focus = "AI/ML Engineering 🤖"
+
+    learning = [
+        "Python",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+    ]
+
+    building = "StudentAI 🚀"
+
+    goal = "Become an AI/ML Engineer 🔥"
+
+    mindset = [
+        "Learn",
+        "Build",
+        "Debug",
+        "Improve",
+        "Repeat"
+    ]
+
+    def life_loop(self):
+        while True:
+            learn()
+            code()
+            solve_problems()
+            build_projects()
+            repeat()
+<br clear="right"/> <!-- ⚡ ANIMATED DIVIDER --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <!-- 🤖 CURRENT MISSION --> <h2 align="center">🤖 CURRENT MISSION</h2> <div align="center"> <img src="https://img.shields.io/badge/🚀_StudentAI-0D1117?style=for-the-badge&logoColor=00F7F7"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=70&lines=Building+an+AI-Powered+Student+Assistant+%F0%9F%A4%96;Studies+%7C+Goals+%7C+Planning+%7C+Personal+Growth;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="StudentAI"/> <br>
+
+📚 Studies   🎯 Goals   📋 Planning   💬 AI Chat   🧠 Personal Growth
+
+<br><br>
+
+🔨 STATUS: CURRENTLY BUILDING
+
+</div> <!-- 🧠 DSA JOURNEY --> <h2 align="center">🧠 DSA JOURNEY</h2> <div align="center"> <img src="https://img.shields.io/badge/Python-DSA-00F7F7?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LeetCode-PRACTICING-7B42F6?style=for-the-badge&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/GFG-PRACTICING-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<br><br>
+
+ARRAYS → TWO POINTERS → SLIDING WINDOW → BINARY SEARCH → NEXT...
+
+<br><br>
+
+PROBLEM → PATTERN → LOGIC → CODE → DEBUG → OPTIMIZE
+
+</div> <!-- ⚡ TECH ARSENAL --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h2 align="center"> ⚡ TECH ARSENAL </h2> <div align="center">
+🐍 Programming & DSA
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=7B42F6"/> <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF4B91"/>
+🤖 AI / ML & Data Science
+<img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=googlebard&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF4B91"/> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Data_Science-0D1117?style=for-the-badge&logo=databricks&logoColor=7B42F6"/>
+🗄️ Databases
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00C853"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=7B42F6"/>
+☁️ Cloud & Tools
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+🌐 Development
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F7F7"/> </div> <!-- 📊 GITHUB STATISTICS --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h2 align="center">📊 GITHUB STATISTICS</h2> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=revanth1461&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true"/> <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=revanth1461&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF4B91&currStreakLabel=00F7F7"/> </div> <br> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth1461&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=revanth1461&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/> </div> <!-- 🐍 CONTRIBUTION SNAKE --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h2 align="center">🐍 CONTRIBUTION SNAKE</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake" src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div> <!-- 🔥 CODING PHILOSOPHY --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h2 align="center">🔥 CODING PHILOSOPHY</h2> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1500&color=00F7F7&center=true&vCenter=true&width=750&height=60&lines=Think+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Optimize;Don't+just+write+code.+Understand+it.;Every+bug+is+another+lesson+%F0%9F%94%A5" alt="Coding Philosophy"/>
+
+<br><br>
+
+🧠 THINK   →   💻 CODE   →   🐛 DEBUG   →   ⚡ OPTIMIZE
+
+<br><br>
+
+⚡ Learn. Build. Break. Fix. Repeat.
+</div> <!-- 🌌 FINAL ANIMATION --> <br> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B42F6&center=true&vCenter=true&width=700&height=50&lines=Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Solving+%F0%9F%94%A5;One+Day+%E2%86%92+AI%2FML+Engineer+%F0%9F%A4%96" alt="Final Typing"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/> </div> ```
