@@ -140,23 +140,15 @@
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🐍 **My Contribution Snake**
+<h2>🐍 Contribution Snake</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/revanth1461/revanth1461/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ## 🔥 **My Coding Philosophy**
 
