@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=ELLURU%20REVANTH%20NATH%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- 🤖 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=AI%2FML+Engineering+Enthusiast+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;DSA+%7C+Python+%7C+AI%2FML+%F0%9F%90%8D;Building+StudentAI+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9A%A1;Future+AI%2FML+Engineer+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+Engineering+Enthusiast+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;DSA+%7C+Python+%7C+AI%2FML+%F0%9F%90%8D;Building+StudentAI+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9A%A1;Future+AI%2FML+Engineer+%F0%9F%94%A5" alt="Typing SVG"/>
 
 <br>
 
@@ -53,7 +53,7 @@ class Revanth:
     year = "3rd Year"
     graduation = 2028
 
-    current_focus = "AI/ML Engineering 🤖"
+    current_focus = "AI Engineering 🤖"
 
     learning = [
         "Python",
@@ -65,7 +65,7 @@ class Revanth:
 
     building = "StudentAI 🚀"
 
-    goal = "Become an AI/ML Engineer 🔥"
+    goal = "Become an AI Engineer 🔥"
 
     mindset = [
         "Learn",
@@ -107,7 +107,7 @@ PROBLEM → PATTERN → LOGIC → CODE → DEBUG → OPTIMIZE
 </div> <!-- ⚡ TECH ARSENAL --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <h2 align="center"> ⚡ TECH ARSENAL </h2> <div align="center">
 🐍 Programming & DSA
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=7B42F6"/> <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF4B91"/>
-🤖 AI / ML & Data Science
+🤖 AI Engineering & Data Science
 <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=googlebard&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF4B91"/> <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Data_Science-0D1117?style=for-the-badge&logo=databricks&logoColor=7B42F6"/>
 🗄️ Databases
 <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00C853"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7F7"/> <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=7B42F6"/>
