@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=ELLURU%20REVANTH%20NATH%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- 🤖 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+Engineering+Enthusiast+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;DSA+%7C+Python+%7C+AI+%F0%9F%90%8D;Building+StudentAI+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9A%A1;Future+AI%2FML+Engineer+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+Engineering+Enthusiast+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;DSA+%7C+Python+%7C+AI+%F0%9F%90%8D;Building+StudentAI+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9A%A1;Future+AI+Engineer+%F0%9F%94%A5" alt="Typing SVG"/>
 
 <br>
 
